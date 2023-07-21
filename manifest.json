@@ -1,0 +1,31 @@
+{
+  "name": "The Witcher",
+  "short_name": "the Witcher",
+  "theme_color": "#f3cc21",
+  "background_color": "#21f396",
+  "display": "standalone",
+  "scope": "Placeholder",
+  "start_url": ".",
+  "icons": [
+    {
+      "scr": "/icon-512x512.png",
+      "sizes": "96x96",
+      "typr": "image/png"
+    },
+    {
+      "scr": "/icon-512x512.png",
+      "sizes": "144x144",
+      "typr": "image/png"
+    },
+    {
+      "scr": "/icon-512x512.png",
+      "sizes": "256x256",
+      "typr": "image/png"
+    },
+    {
+      "scr": "/icon-512x512.png",
+      "sizes": "512x512",
+      "typr": "image/png"
+    }
+  ]
+}
